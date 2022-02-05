@@ -1,0 +1,5 @@
+<script>
+x=10;
+xonsole.log(5+x)
+document.write('hello universe')
+</script>
